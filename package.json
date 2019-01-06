@@ -47,5 +47,7 @@
     "ios >= 9",
     "android >= 4.4"
   ],
-  "dependencies": {}
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
 }
